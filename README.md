@@ -95,7 +95,7 @@ You're basically all set! This bot works out of the box thanks to the JSON file 
 |        Warn        |      `+warn <mention> <warning>`       |                 Warn a user                  |
 |      Warnings      |         `+warnings <mention>`          |         See all of a user's warnings         |
 |   Clear Warnings   | `+clearwarnings <mention> <index(es)>` |           Clear specifiec warnings           |
-| Clear All Warnings |      `clearallwarnings <mention>`      |       Clear all of someone's warnings        |
+| Clear All Warnings |     `+clearallwarnings <mention>`      |       Clear all of someone's warnings        |
 |       Purge        |       `+purge <amount (2-100)>`        |     Bulk delete messages from a channel      |
 |      Moderate      |         `+moderate <mention>`          | Change a user's nickname to "Moderated User" |
 |        Exp         |            `+exp [mention]`            |              View a user's EXP               |
