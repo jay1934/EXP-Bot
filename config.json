@@ -1,0 +1,20 @@
+{
+  "logChannelID": "",
+  "token": "",
+  "permissions": {
+    "addcookies": [],
+    "balance": [],
+    "ban": [],
+    "clearallwarnings": [],
+    "clearwarnings": [],
+    "eat": [],
+    "exp": [],
+    "kick": [],
+    "leaderboard": [],
+    "moderate": [],
+    "purge": [],
+    "subcookies": [],
+    "warn": [],
+    "warnings": []
+  }
+}
