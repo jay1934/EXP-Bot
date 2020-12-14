@@ -83,26 +83,4 @@ You're basically all set! This bot works out of the box thanks to the JSON file 
 
 ## Commands
 
-```
-[] - Optional
-<> - required
-```
-
-|        Name        |                 Usage                  |                 Description                  |
-| :----------------: | :------------------------------------: | :------------------------------------------: |
-|        Ban         |       `+ban <mention> [reason]`        |                  Ban a user                  |
-|        Kick        |       `+kick <mention> [reason]`       |                 Kick a user                  |
-|        Warn        |      `+warn <mention> <warning>`       |                 Warn a user                  |
-|      Warnings      |         `+warnings <mention>`          |         See all of a user's warnings         |
-|   Clear Warnings   | `+clearwarnings <mention> <index(es)>` |           Clear specifiec warnings           |
-| Clear All Warnings |     `+clearallwarnings <mention>`      |       Clear all of someone's warnings        |
-|       Purge        |       `+purge <amount (2-100)>`        |     Bulk delete messages from a channel      |
-|      Moderate      |         `+moderate <mention>`          | Change a user's nickname to "Moderated User" |
-|        Exp         |            `+exp [mention]`            |              View a user's EXP               |
-|        Eat         |                 `+eat`                 |                 Eat a cookie                 |
-|    Add Cookies     |    `+addcookies <mention> <amount>`    |            Add cookies to a user             |
-|    Sub Cookies     |    `+subcookies <mention> <amount>`    |         Subtract cookies from a user         |
-|      Cookies       |          `+cookies [mention]`          |            View a user's cookies             |
-|    Leaderboard     |             `+leaderboard`             |     View the cookies and EXP leaderboard     |
-
-</div>
+See [`commands/help.js`](/commands/help.js)
