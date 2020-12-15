@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.4.1",
-    "discord.js-utility": "^1.0.2"
+    "discord.js-utility": "^1.0.2",
+    "node-fetch": "^2.6.1"
   },
 }
