@@ -57,20 +57,11 @@ First, you need to fill in all of the values in [`config.json`](/config.json). M
   "logChannelID": "", // channel where ban/kick/mute/kick alerts will be sent
   "token": "", // your bot token (in the application dashboard)
   "permissions": { // each command accepts role IDs for who can use them
-    "addcookies": [], // if an array is empty, anyone can use it
-    "balance": [], // for example:
-    "ban": ["adminRoleID", "otherRoleID", "lastRoleID"],
-    "clearallwarnings": [],
-    "clearwarnings": [],
-    "eat": [], // put in as many or as little roles as you want
-    "exp": [],
-    "kick": [],
-    "leaderboard": [],
-    "moderate": [],
-    "purge": [],
-    "subcookies": [],
-    "warn": [],
-    "warnings": []
+    "cmd1": [], // if an array is empty, anyone can use it
+    "cmd2": [], // for example:
+    "cmd3": ["adminRoleID", "otherRoleID", "lastRoleID"],
+    "cmd4": [], // put in as many or as little roles as you want
+    // ...
   }
 }
 ```
